@@ -13,6 +13,8 @@ Dans la ligne avec écrit interfaces il faudra donc renseigner le nom de l'inter
 Ensuite il faudra faire les configuration du DHCP primaire et secondaire.
 Pour le DHCP primaire la configuration que nous avons utiliser est la suivante:
 
+vim /etc/dhcp/dhcpd.conf
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 authoritative;
 
